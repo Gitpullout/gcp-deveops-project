@@ -1,1 +1,1 @@
-#### This is a Repo for DEVOPS project
+# This is a Repo for our new GCP DEVOPS project
